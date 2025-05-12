@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-v1",
+  "version": "1.0.0",
+  "description": "TEST TEST remote connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanEra1998/portfolio-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanEra1998/portfolio-v1/issues"
+  },
+  "homepage": "https://github.com/DanEra1998/portfolio-v1#readme"
+}
